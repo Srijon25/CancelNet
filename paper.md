@@ -1,4 +1,8 @@
+---
 
+
+```markdown
+---
 title: "CancelNet: A Framework for Intelligent Phrase-Based Interrupt Control in Risk-Sensitive Applications"
 authors:
   - name: Srijon Kumar Shill
