@@ -81,4 +81,3 @@ This work is an independent research initiative by **Srijon Kumar Shill**. The a
 
 1. Reimers, N., & Gurevych, I. (2019). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. *arXiv preprint arXiv:1908.10084*.
 2. Vaswani, A., et al. (2017). Attention is All You Need. *Advances in Neural Information Processing Systems*, 30.
-3. JOSS Submission Guidelines: https://joss.readthedocs.io/en/latest/submitting.html
