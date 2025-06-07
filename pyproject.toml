@@ -1,0 +1,11 @@
+[project]
+name = "cancelnet"
+version = "1.0.0"
+description = "Intelligent phrase-based interrupt control for risk-sensitive systems."
+authors = [
+    { name="Srijon Kumar Shill", email="theunpredictable157@gmail.com" }
+]
+license = "MIT"
+
+[tool.setuptools]
+packages = ["cancelnet"]
