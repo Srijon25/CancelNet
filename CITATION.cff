@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Shill
+    given-names: Srijon Kumar
+    affiliation: Independent Researcher
+title: CancelNet: A Framework for Intelligent Phrase-Based Interrupt Control in Risk-Sensitive Applications
+version: 1.0.0
+date-released: 2025-06-07
+url: https://github.com/YOUR_USERNAME/CancelNet
+license: MIT
